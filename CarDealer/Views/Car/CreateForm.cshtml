@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link href="~/Content/styles.css" rel="stylesheet" type="text/css" />
+    <meta charset="utf-8">
+    <title>Enter Car info here!</title>
+  </head>
+  <body>
+    <h1>Car Form</h1>
+
+    <form action="/cars" method="post">
+      <label for="makeModel">Make and Model:</label>
+      <input type="text" name="makeModel" id="makeModel">
+
+      <label for="price">Price:</label>
+      <input type="text" name="price" id="price">
+
+      <label for="miles">Miles:</label>
+      <input type="text" name="miles" id="miles">
+
+      <button type="submit">Submit</button>
+    </form>
+
+  </body>
+</html>
