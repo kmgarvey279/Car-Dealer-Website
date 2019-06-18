@@ -1,4 +1,4 @@
-## _Places List_
+## _Car Dealer Websites_
 
 ### _***Kevin Garvey***_
 
@@ -24,9 +24,9 @@ _Please contact me at kmgarvey279@gmail.com if you have any questions or comment
 
 ### Technologies Used
 
-_- C#_
-_- Mono_
-_- .Net_
+- _C#_
+- _Mono_
+- _.Net_
 
 ### License
 
