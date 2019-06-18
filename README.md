@@ -11,12 +11,12 @@
 - _The user can choose to delete all places from their list._
 
 ### Setup/Installation
-- Clone the Car Dealer directory from https://github.com/kmgarvey279/Car-Dealer-Website.
-- Navigate to the main CarDealer folder and run dotnet restore in the command line.
-- Run dotnet run in the command line. Once you receive confirmation that the program is running, navigate to http://localhost:5000/ in your web browser.    
+- _Clone the Car Dealer directory from https://github.com/kmgarvey279/Car-Dealer-Website._
+- _Navigate to the main CarDealer folder and run dotnet restore in the command line._
+- _Run dotnet run in the command line. Once you receive confirmation that the program is running, navigate to http://localhost:5000/ in your web browser._    
 
 ### Known Bugs
-None at this time.
+_None at this time._
 
 ### Support and contact details
 
